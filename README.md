@@ -29,13 +29,13 @@ Task 4(1)/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/7saurabh7/Admin-Panel-Interface)
 ```
 
 ### 2. Navigate into the project
 
 ```bash
-cd your-repo-name
+cd Admin-Panel-Interface
 ```
 
 ### 3. Install dependencies
