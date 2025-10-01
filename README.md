@@ -63,11 +63,3 @@ The app will run at **[http://localhost:3000](http://localhost:3000)** 🎉
 
 * Node.js (>= 14.x recommended)
 * npm (>= 6.x) or yarn
-
-## 📝 License
-
-This project is for educational and learning purposes. You can modify and reuse it.
-
----
-
-Do you want me to make this README **short & crisp for a GitHub portfolio**, or a **detailed one with screenshots and usage examples**?
